@@ -1,0 +1,18 @@
+[
+    {
+      "question": "What does 'phishing' refer to?",
+      "options": ["A scam to steal personal data", "A type of firewall", "A VPN method", "An encryption technique"],
+      "correctAnswer": "A scam to steal personal data"
+    },
+    {
+      "question": "What is the strongest password?",
+      "options": ["123456", "P@ssword", "L3tM3!n2024", "Qwerty"],
+      "correctAnswer": "L3tM3!n2024"
+    },
+    {
+      "question": "Which is NOT a form of malware?",
+      "options": ["Trojan", "Rootkit", "Firewall", "Spyware"],
+      "correctAnswer": "Firewall"
+    }
+  ]
+  
